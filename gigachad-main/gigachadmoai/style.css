@@ -1,0 +1,25 @@
+
+.lista_link {
+
+    background-color: black;
+    
+
+    
+}
+.img_principal {
+    width: 200px; /* Largura da imagem */
+    height: 100px; /* Altura da imagem */
+    object-fit: cover; /* Ajusta a imagem ao contêiner, cortando se necessário */
+    object-position: center;/* Ponto focal da imagem */
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.link, texto1 { 
+    text-transform: uppercase;
+    margin-top: 1%;
+    margin-left: 15%;
+    text-decoration: none;
+    color: aliceblue;
+    
+    
+}
