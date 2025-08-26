@@ -1,11 +1,20 @@
 .lista_link {
 
     background-color: black;
-    text-transform: uppercase;
+    
     
 }
 .link {
     text-align: center;
     text-decoration: none;
     color: aliceblue;
+    text-transform: uppercase;
+
+
+}
+.img_principal {
+    background-image: url(imagens/gatoprog.jpg);
+    background-size: 1px;
+    background-attachment: fixed;
+
 }
