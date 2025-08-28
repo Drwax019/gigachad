@@ -12,9 +12,7 @@
 
 
 }
-.img_principal {
-    background-image: url(imagens/gatoprog.jpg);
-    background-size: 1px;
+.imagem1 {
     background-attachment: fixed;
-
+    background-color: black;
 }
