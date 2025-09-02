@@ -1,0 +1,40 @@
+.cabeçalho {
+    background-color: black;
+    padding: 20px 50px 30px 40px;
+    
+}
+.lista_link {
+
+    text-align: start;
+    color: aliceblue;
+    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+    
+    
+    
+    
+ 
+    
+}
+.link {
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        color: aliceblue;
+        padding: 100px 10px 0px 100px;
+        
+        
+    
+}
+
+
+.imagem1 {
+    height: 100px;
+    width: 150px;
+    background-attachment: fixed;
+    padding: 6px;
+    display: inline-block;
+    
+    
+    
+}
